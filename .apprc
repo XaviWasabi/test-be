@@ -1,0 +1,7 @@
+{
+    "srcDir": "src/",
+    "distDir": "wordpress/wp-content/themes/wildxyz/",
+    "buildDir": "build/",
+    "gulpTaskDir": "gulpfile.babel.js/tasks/",
+    "autoprefixer": "> 5% in DE, last 2 versions, Explorer >= 10, iOS >= 8"
+}
